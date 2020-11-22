@@ -1,0 +1,6 @@
+jupyter>=1.0
+numpy==1.18.0
+matplotlib == 3.2.1
+pymdptoolbox ==4.0
+mdptoolbox == 4.0.3
+
